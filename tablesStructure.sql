@@ -8,7 +8,7 @@ CREATE TABLE payment_status(
 id_payment_status INT AUTO_INCREMENT PRIMARY KEY,
 payment_status_name VARCHAR(15)
 );
-CREATE TABLE currencies(
+CREATE TABLE currencies( 
 id_currency INT AUTO_INCREMENT PRIMARY KEY,
 currenciey_name VARCHAR(15)
 );
